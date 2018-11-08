@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d9b6182-5359-40ee-b539-8948d5ce6bab" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="1193" lean-forward="true" selection-start-line="1193" selection-end-line="1193" />
+              <folding>
+                <element signature="e#39847#39853#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agency.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/agency.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17784">
+              <caret line="925" column="1" selection-start-line="925" selection-start-column="1" selection-end-line="925" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2033">
+              <caret line="5" column="102960" selection-start-line="5" selection-start-column="102960" selection-end-line="5" selection-end-column="102960" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tell.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tell.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="37" column="137" selection-start-line="37" selection-start-column="137" selection-end-line="37" selection-end-column="137" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>section h2.section-heading</find>
+      <find>header.masthead</find>
+      <find>#computer .computer-item .computer-caption</find>
+      <find>success</find>
+      <find>#christian .christian-item .christian-link</find>
+      <find>#animal .animal-item .animal-caption</find>
+      <find>.portfolio-modal .modal-content</find>
+      <find>teleMessageForm</find>
+      <find>messageName</find>
+      <find>messageJoin</find>
+      <find>#teleMessageForm .telebox1</find>
+      <find>.portfolio-modal .modal-content h2</find>
+      <find>#ModalComputer1</find>
+      <find>@</find>
+      <find>#computer .computer-item .computer-link</find>
+      <find>#computer .computer-item .computer-caption p</find>
+      <find>#computer *</find>
+      <find>#music .music-item .music-link</find>
+      <find>#music .music-item .music-caption p</find>
+      <find>#mainNav .navbar-nav .nav-item .nav-link</find>
+      <find>#computer * .explanation</find>
+      <find>#teleMessageForm select</find>
+      <find>#teleMessageForm</find>
+      <find>.bg-light</find>
+      <find>힐링</find>
+      <find>천생연분</find>
+      <find>양말</find>
+      <find>41</find>
+      <find>한자</find>
+      <find>운동</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mail/message.php" />
+        <option value="$PROJECT_DIR$/mail/contact_me.php" />
+        <option value="$PROJECT_DIR$/Telegram.php" />
+        <option value="$PROJECT_DIR$/telegram.php" />
+        <option value="$PROJECT_DIR$/startbootstrap-agency-gh-pages/startbootstrap-agency-gh-pages/index.html" />
+        <option value="$PROJECT_DIR$/js/telegram.js" />
+        <option value="$PROJECT_DIR$/mail/telegram.php" />
+        <option value="$PROJECT_DIR$/js/contact_me.js" />
+        <option value="$PROJECT_DIR$/pop.html" />
+        <option value="$PROJECT_DIR$/tele.php" />
+        <option value="$PROJECT_DIR$/js/te.js" />
+        <option value="$PROJECT_DIR$/te.js" />
+        <option value="$USER_HOME$/Desktop/새 폴더/tele.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/testgruoup.php" />
+        <option value="I:/IT/홈페이지/html/dbconn.php" />
+        <option value="$PROJECT_DIR$/dbcpmm.php" />
+        <option value="$PROJECT_DIR$/tell.php" />
+        <option value="$PROJECT_DIR$/dbconnection.php" />
+        <option value="$PROJECT_DIR$/tell - 복사본.php" />
+        <option value="$PROJECT_DIR$/Circles_No1.php" />
+        <option value="$PROJECT_DIR$/post.php" />
+        <option value="$PROJECT_DIR$/css/agency.css" />
+        <option value="$PROJECT_DIR$/css/agency.min.css" />
+        <option value="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/font-awesome/css" />
+      <path value="$PROJECT_DIR$/vendor/font-awesome/fonts" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/css" />
+      <path value="$PROJECT_DIR$/vendor/font-awesome/scss" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/js" />
+      <path value="$PROJECT_DIR$/vendor/font-awesome/less" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="552" />
+    <option name="y" value="127" />
+    <option name="width" value="1199" />
+    <option name="height" value="752" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="public_html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\AutoSet9\public_html\js" />
+      <recent name="C:\AutoSet9\public_html" />
+      <recent name="C:\AutoSet9\public_html\mail" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AutoSet9" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="te.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="te.js" working-dir="$PROJECT_DIR$/js" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.te.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d9b6182-5359-40ee-b539-8948d5ce6bab" name="Default" comment="" />
+      <created>1521374705498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521374705498</updated>
+      <workItem from="1521374706650" duration="2619000" />
+      <workItem from="1521383209188" duration="497000" />
+      <workItem from="1521385443846" duration="2547000" />
+      <workItem from="1521388235036" duration="44000" />
+      <workItem from="1521388638400" duration="258000" />
+      <workItem from="1521426406976" duration="180000" />
+      <workItem from="1521461352497" duration="2858000" />
+      <workItem from="1521546797526" duration="873000" />
+      <workItem from="1521547883068" duration="1900000" />
+      <workItem from="1521552575121" duration="1125000" />
+      <workItem from="1521636081999" duration="2477000" />
+      <workItem from="1521710751144" duration="7847000" />
+      <workItem from="1521795818117" duration="819000" />
+      <workItem from="1521878528818" duration="3033000" />
+      <workItem from="1521954861850" duration="3197000" />
+      <workItem from="1521995277392" duration="684000" />
+      <workItem from="1522062461065" duration="10980000" />
+      <workItem from="1522078356572" duration="299000" />
+      <workItem from="1522078690485" duration="11070000" />
+      <workItem from="1522252673009" duration="911000" />
+      <workItem from="1522591266434" duration="2125000" />
+      <workItem from="1522858248472" duration="30000" />
+      <workItem from="1522858282033" duration="3319000" />
+      <workItem from="1523086565342" duration="2891000" />
+      <workItem from="1523096231539" duration="73000" />
+      <workItem from="1523097144139" duration="7000" />
+      <workItem from="1523097164974" duration="9672000" />
+      <workItem from="1523191714402" duration="1882000" />
+      <workItem from="1523193791343" duration="2885000" />
+      <workItem from="1523196702228" duration="5530000" />
+      <workItem from="1523202989794" duration="3000" />
+      <workItem from="1523204817456" duration="118000" />
+      <workItem from="1523264924245" duration="1829000" />
+      <workItem from="1523287190270" duration="7189000" />
+      <workItem from="1523294511621" duration="40000" />
+      <workItem from="1523600074199" duration="9341000" />
+      <workItem from="1523616091065" duration="7306000" />
+      <workItem from="1523958473774" duration="777000" />
+      <workItem from="1524216535125" duration="1789000" />
+      <workItem from="1524218348382" duration="1258000" />
+      <workItem from="1524746165007" duration="1774000" />
+      <workItem from="1524750963668" duration="2457000" />
+      <workItem from="1524965263780" duration="4780000" />
+      <workItem from="1525079210439" duration="4997000" />
+      <workItem from="1525139878169" duration="2651000" />
+      <workItem from="1525170808740" duration="4244000" />
+      <workItem from="1525185146516" duration="3448000" />
+      <workItem from="1525262571521" duration="1202000" />
+      <workItem from="1525362421972" duration="2943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="142131000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="552" y="127" width="1199" height="752" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16314454" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297491" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tell.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16435">
+          <caret line="854" column="1" lean-forward="true" selection-start-line="854" selection-start-column="1" selection-end-line="854" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TelegramBotPHP-master/README.md" />
+    <entry file="file://$PROJECT_DIR$/TelegramBotPHP-master/.travis.yml" />
+    <entry file="file://$PROJECT_DIR$/TelegramBotPHP-master/bot examples/webhook/update.php" />
+    <entry file="file://$PROJECT_DIR$/TelegramBotPHP-master/bot examples/webhook/updatecowsay.php" />
+    <entry file="file://$PROJECT_DIR$/TelegramBotPHP-master/bot examples/webhook/gamebot.php" />
+    <entry file="file://$PROJECT_DIR$/TelegramBotPHP-master/TelegramErrorLogger.php" />
+    <entry file="file://$PROJECT_DIR$/TelegramBotPHP-master/Telegram.php" />
+    <entry file="file://$PROJECT_DIR$/js/telegram.js" />
+    <entry file="file://$PROJECT_DIR$/js/tele.php" />
+    <entry file="file://$PROJECT_DIR$/js/tell.php" />
+    <entry file="file://$PROJECT_DIR$/mail/contact_me.php" />
+    <entry file="file://$PROJECT_DIR$/js/contact_me.js" />
+    <entry file="file://$PROJECT_DIR$/js/agency.js" />
+    <entry file="file://$PROJECT_DIR$/js/agency.min.js" />
+    <entry file="file://$PROJECT_DIR$/js/te.js" />
+    <entry file="file://$PROJECT_DIR$/js/jqBootstrapValidation.js" />
+    <entry file="file://$PROJECT_DIR$/mail/telegram.php" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/tele.php" />
+    <entry file="file://$USER_HOME$/Desktop/새 폴더/tele.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$USER_HOME$/Desktop/index.php" />
+    <entry file="file://$USER_HOME$/Desktop/새 폴더/index.php" />
+    <entry file="file://$PROJECT_DIR$/../html/member/member_insert.php" />
+    <entry file="file://$PROJECT_DIR$/../html/member/join.php" />
+    <entry file="file://$PROJECT_DIR$/testgruoup.php" />
+    <entry file="file://$USER_HOME$/Desktop/public_html(04.09)/tell.php" />
+    <entry file="file://$USER_HOME$/Desktop/public_html(04.09)/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/소스 모음/부트스트랩 페이지/startbootstrap-agency-gh-pages/startbootstrap-agency-gh-pages/css/agency.min.css" />
+    <entry file="file://I:/IT/홈페이지/html/member/modify.php" />
+    <entry file="file://I:/IT/홈페이지/html/greet/list.php" />
+    <entry file="file://I:/IT/홈페이지/html/member/join.php" />
+    <entry file="file://I:/IT/홈페이지/html/greet/insert.php" />
+    <entry file="file://I:/IT/홈페이지/html/dbconn.php" />
+    <entry file="file://I:/IT/홈페이지/html/greet/write_form.php" />
+    <entry file="file://I:/IT/홈페이지/html/login/login_ok.php" />
+    <entry file="file://I:/IT/홈페이지/html/login/login.php" />
+    <entry file="file://$PROJECT_DIR$/dbcpmm.php" />
+    <entry file="file://$PROJECT_DIR$/dbconnection.php" />
+    <entry file="file://$PROJECT_DIR$/tell - 복사본.php" />
+    <entry file="file://$PROJECT_DIR$/Circles_No1.php" />
+    <entry file="file://$PROJECT_DIR$/post.php" />
+    <entry file="file://$PROJECT_DIR$/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="430" selection-start-line="430" selection-end-line="430" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="6137" column="21" selection-start-line="6137" selection-start-column="21" selection-end-line="6137" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="5" column="102960" selection-start-line="5" selection-start-column="102960" selection-end-line="5" selection-end-column="102960" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tell.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="137" selection-start-line="37" selection-start-column="137" selection-end-line="37" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17784">
+          <caret line="925" column="1" selection-start-line="925" selection-start-column="1" selection-end-line="925" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="1193" lean-forward="true" selection-start-line="1193" selection-end-line="1193" />
+          <folding>
+            <element signature="e#39847#39853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
